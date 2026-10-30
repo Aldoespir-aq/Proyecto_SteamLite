@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Starlight Drift</title>
+  <desc id="desc">Un planeta brillante flota entre constelaciones de color violeta y azul.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#101737"/><stop offset=".52" stop-color="#36286d"/><stop offset="1" stop-color="#c05d99"/></linearGradient>
+    <radialGradient id="planet"><stop stop-color="#fff5ce"/><stop offset=".32" stop-color="#a7e6ff"/><stop offset="1" stop-color="#526bcb"/></radialGradient>
+    <linearGradient id="glow" x2="0" y2="1"><stop stop-color="#d8c6ff" stop-opacity=".85"/><stop offset="1" stop-color="#9878ff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v675H0z"/>
+  <circle cx="970" cy="104" r="155" fill="#d778c5" opacity=".13"/>
+  <circle cx="938" cy="104" r="105" fill="url(#planet)"/>
+  <path d="M837 112q102 72 201-5" fill="none" stroke="#fff" stroke-opacity=".48" stroke-width="3"/>
+  <path d="m0 540 190-70 105 48 170-96 150 85 143-108 163 66 137-73 142 44v239H0z" fill="#191b48" opacity=".83"/>
+  <path d="m0 589 210-67 130 47 181-69 153 68 180-83 146 55 200-71v206H0z" fill="#10152e"/>
+  <path d="M0 600h1200" stroke="url(#glow)" stroke-width="4"/>
+  <g fill="#fff"><circle cx="92" cy="98" r="3"/><circle cx="207" cy="191" r="2"/><circle cx="367" cy="89" r="3"/><circle cx="478" cy="227" r="2"/><circle cx="660" cy="97" r="3"/><circle cx="758" cy="187" r="2"/><circle cx="1104" cy="245" r="3"/><circle cx="105" cy="330" r="2"/><circle cx="565" cy="350" r="2"/><circle cx="760" cy="305" r="3"/></g>
+  <path d="m79 144 64-35 45 38 63-28" fill="none" stroke="#c8baff" stroke-opacity=".45" stroke-width="2"/>
+  <text x="72" y="472" fill="#c6b5ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="7">STEAMLITE ORIGINAL</text>
+  <text x="67" y="541" fill="#fff" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">STARLIGHT DRIFT</text>
+  <text x="74" y="579" fill="#d2cde7" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">FIND YOUR CONSTELLATION</text>
+</svg>

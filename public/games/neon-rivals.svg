@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Neon Rivals</title>
+  <desc id="desc">Una ciudad futurista bajo luces magenta y cian.</desc>
+  <defs>
+    <linearGradient id="night" x2="0" y2="1"><stop stop-color="#17122f"/><stop offset=".58" stop-color="#451b61"/><stop offset="1" stop-color="#111523"/></linearGradient>
+    <linearGradient id="sign" x2="1"><stop stop-color="#fb49c5"/><stop offset="1" stop-color="#39e5ff"/></linearGradient>
+  </defs>
+  <path fill="url(#night)" d="M0 0h1200v675H0z"/>
+  <circle cx="858" cy="205" r="188" fill="#e52ca9" opacity=".13"/>
+  <path d="M0 482h83V293h96v189h47V216h110v266h65V324h109v158h65V179h119v303h57V270h117v212h54V221h106v261h54v-175h89v175h49v193H0z" fill="#101323"/>
+  <g fill="#ff53cb" opacity=".86"><path d="M106 320h13v23h-13zm35 0h13v23h-13zm-35 43h13v23h-13zm35 0h13v23h-13zM370 349h13v24h-13zm34 0h13v24h-13zm-34 46h13v24h-13zm34 0h13v24h-13zM682 213h13v28h-13zm37 0h13v28h-13zm-37 52h13v28h-13zm37 0h13v28h-13z"/></g>
+  <g fill="#3ce9ff" opacity=".9"><path d="M258 252h17v27h-17zm38 0h17v27h-17zm-38 48h17v27h-17zm38 0h17v27h-17zM827 302h15v25h-15zm35 0h15v25h-15zm-35 43h15v25h-15zm35 0h15v25h-15zM1016 252h15v25h-15zm34 0h15v25h-15z"/></g>
+  <path d="M0 486h1200" stroke="url(#sign)" stroke-width="4" opacity=".9"/>
+  <path d="m0 570 278-84 181 29 253-43 193 40 295-80v243H0z" fill="#0c101c"/>
+  <path d="m150 675 240-188m-87 188 208-188m539 188L846 486m227 189L930 486" stroke="#32dff5" stroke-opacity=".25" stroke-width="3"/>
+  <text x="72" y="485" fill="#ff70d8" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="7">OWN THE NIGHT</text>
+  <text x="66" y="555" fill="#fff" font-family="Arial,sans-serif" font-size="74" font-weight="900" font-style="italic" letter-spacing="-3">NEON RIVALS</text>
+  <text x="74" y="594" fill="#a9c7d7" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">PLAY FAST. STAY BRIGHT.</text>
+</svg>

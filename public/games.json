@@ -1,0 +1,134 @@
+[
+  {
+    "id": "starlight-drift",
+    "title": "Starlight Drift",
+    "category": "Aventura",
+    "price": 0,
+    "rating": 4.9,
+    "reviews": 1284,
+    "tag": "GRATIS",
+    "description": "Surca un océano de estrellas en una aventura relajante donde cada planeta esconde una historia. Explora a tu ritmo, encuentra nuevas constelaciones y deja que la música te guíe.",
+    "image": "/games/starlight-drift.svg",
+    "accent": "#8f6bff",
+    "gameType": "memory",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1464802686167-b939a6910659?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "LunaEstelar", "rating": 5, "comment": "Perfecto para desconectar un rato. El juego de parejas es sencillo y muy relajante." },
+      { "name": "MarcosG", "rating": 4, "comment": "Bonito diseño y una experiencia tranquila. Me gustó la temática espacial." }
+    ]
+  },
+  {
+    "id": "neon-rivals",
+    "title": "Neon Rivals",
+    "category": "Acción",
+    "price": 12.99,
+    "rating": 4.8,
+    "reviews": 964,
+    "tag": "MÁS JUGADO",
+    "description": "La ciudad nunca duerme y tú tampoco. Enfréntate en partidas rápidas de estrategia y reflejos en una metrópolis bañada por luces de neón.",
+    "image": "/games/neon-rivals.svg",
+    "accent": "#f15c9b",
+    "gameType": "tic-tac-toe",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "NicoPixel", "rating": 5, "comment": "Partidas rápidas y una ambientación genial. Ideal para jugar en pareja." },
+      { "name": "ValePlay", "rating": 4, "comment": "El tres en raya es simple, pero siempre vuelvo por otra partida." }
+    ]
+  },
+  {
+    "id": "wildwood",
+    "title": "Wildwood",
+    "category": "Aventura",
+    "price": 8.49,
+    "rating": 4.7,
+    "reviews": 723,
+    "tag": "NUEVO",
+    "description": "Un bosque antiguo, una brújula rota y mil caminos por descubrir. Resuelve acertijos y reconstruye los recuerdos perdidos de Wildwood.",
+    "image": "/games/wildwood.svg",
+    "accent": "#9abe74",
+    "gameType": "number-guess",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "BosqueAzul", "rating": 5, "comment": "Los acertijos numéricos encajan muy bien con la exploración del bosque." },
+      { "name": "MeliQuest", "rating": 4, "comment": "Una experiencia relajada. Me gusta intentar resolver el reto en pocos turnos." }
+    ]
+  },
+  {
+    "id": "tiny-grand-prix",
+    "title": "Tiny Grand Prix",
+    "category": "Carreras",
+    "price": 5.99,
+    "rating": 4.6,
+    "reviews": 512,
+    "tag": "",
+    "description": "Motores pequeños, carreras enormes. Personaliza tu kart, domina curvas imposibles y cruza la meta antes que tus amigos.",
+    "image": "/games/tiny-grand-prix.svg",
+    "accent": "#f4a44b",
+    "gameType": "reaction",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "TurboLeo", "rating": 5, "comment": "El reto de reflejos es corto y divertido. ¡Siempre quiero mejorar mi tiempo!" },
+      { "name": "PistaLibre", "rating": 4, "comment": "Buena idea para una partida rápida entre carreras." }
+    ]
+  },
+  {
+    "id": "deep-blue",
+    "title": "Deep Blue",
+    "category": "Indie",
+    "price": 7.49,
+    "rating": 4.9,
+    "reviews": 386,
+    "tag": "RECOMENDADO",
+    "description": "Desciende a un mundo submarino pintado a mano. Cada inmersión revela criaturas, secretos y una historia que merece ser escuchada.",
+    "image": "/games/deep-blue.svg",
+    "accent": "#57c4d8",
+    "gameType": "rock-paper-scissors",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1484291470158-b8f8d608850d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "BuzoNaranja", "rating": 5, "comment": "Piedra, papel o tijera con temática marina: fácil de entender y entretenido." },
+      { "name": "MarProfundo", "rating": 5, "comment": "Me encanta la atmósfera submarina y el minijuego es perfecto para partidas cortas." }
+    ]
+  },
+  {
+    "id": "pixel-pals",
+    "title": "Pixel Pals",
+    "category": "Casual",
+    "price": 3.99,
+    "rating": 4.5,
+    "reviews": 241,
+    "tag": "",
+    "description": "Un puñado de criaturas adorables y un montón de rompecabezas. Combina, colecciona y encuentra a tu nuevo compañero favorito.",
+    "image": "/games/pixel-pals.svg",
+    "accent": "#f18368",
+    "gameType": "color-match",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=900&q=80&sat=-35",
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=900&q=80"
+    ],
+    "userReviews": [
+      { "name": "Pixelina", "rating": 5, "comment": "Muy colorido y fácil de jugar. El reto de colores es perfecto para descansar." },
+      { "name": "RetroFan", "rating": 4, "comment": "Una propuesta casual y simpática, con partidas rápidas." }
+    ]
+  }
+]

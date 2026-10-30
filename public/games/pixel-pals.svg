@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel Pals</title>
+  <desc id="desc">Criaturas pixeladas y simpáticas en un mundo de juegos colorido.</desc>
+  <defs>
+    <linearGradient id="arcade" x2="1" y2="1"><stop stop-color="#352361"/><stop offset=".52" stop-color="#c14d91"/><stop offset="1" stop-color="#f2a665"/></linearGradient>
+  </defs>
+  <path fill="url(#arcade)" d="M0 0h1200v675H0z"/>
+  <circle cx="925" cy="202" r="168" fill="#ffd47a" opacity=".18"/>
+  <g opacity=".23" fill="#fff"><path d="M90 90h24v24H90zm48 0h24v24h-24zm48 0h24v24h-24zm-96 48h24v24H90zm48 0h24v24h-24zm48 0h24v24h-24zM1000 88h24v24h-24zm48 0h24v24h-24zm48 0h24v24h-24zm-96 48h24v24h-24zm48 0h24v24h-24zm48 0h24v24h-24z"/></g>
+  <g transform="translate(220 184)">
+    <rect x="30" y="22" width="154" height="154" rx="34" fill="#ff7a91"/><path d="M65 20 85-24l28 39m25 8 35-41 9 61" fill="#ff9eaa"/><circle cx="77" cy="93" r="10" fill="#412e57"/><circle cx="137" cy="93" r="10" fill="#412e57"/><path d="M88 128q20 19 40 0" fill="none" stroke="#412e57" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(500 244)">
+    <rect x="25" y="18" width="128" height="128" rx="40" fill="#65e0cb"/><circle cx="63" cy="73" r="9" fill="#203d5d"/><circle cx="113" cy="73" r="9" fill="#203d5d"/><path d="M67 104q20 18 42 0" fill="none" stroke="#203d5d" stroke-width="6" stroke-linecap="round"/><path d="M70 18 88-14l18 32" fill="#8bf0d8"/>
+  </g>
+  <g transform="translate(765 206)">
+    <rect x="34" y="27" width="143" height="143" rx="48" fill="#f5c45f"/><circle cx="78" cy="91" r="10" fill="#58345d"/><circle cx="132" cy="91" r="10" fill="#58345d"/><path d="M83 125q21 19 43 0" fill="none" stroke="#58345d" stroke-width="7" stroke-linecap="round"/><path d="M35 64 1 43m33 63L0 121m176-56 37-21m-37 62 36 21" stroke="#ffd97d" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="493" fill="#ffe2f2" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="7">MAKE A NEW FRIEND</text>
+  <text x="66" y="567" fill="#fff" font-family="Arial,sans-serif" font-size="78" font-weight="900" letter-spacing="-2">PIXEL PALS</text>
+  <text x="74" y="606" fill="#f8d5ee" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">COLLECT. MATCH. SMILE.</text>
+</svg>

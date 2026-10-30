@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Deep Blue</title>
+  <desc id="desc">Un mundo submarino iluminado por rayos de luz y medusas.</desc>
+  <defs>
+    <linearGradient id="ocean" x2="0" y2="1"><stop stop-color="#4bc0ce"/><stop offset=".36" stop-color="#126580"/><stop offset="1" stop-color="#091a3a"/></linearGradient>
+    <linearGradient id="beam"><stop stop-color="#dcffff" stop-opacity=".48"/><stop offset="1" stop-color="#dcffff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="url(#ocean)" d="M0 0h1200v675H0z"/>
+  <path d="M300 0h108L625 478H455zm256 0h85l198 430H692zm254 0h63l183 356h-92z" fill="url(#beam)"/>
+  <path d="M0 511q95-70 196 0t194 0 194 0 194 0 194 0 194 0 194 0v164H0z" fill="#0a2141"/>
+  <path d="M0 574q108-68 216 0t216 0 216 0 216 0 216 0 216 0v101H0z" fill="#06162e"/>
+  <g fill="#9cf7ed" opacity=".82"><circle cx="182" cy="306" r="3"/><circle cx="314" cy="391" r="4"/><circle cx="471" cy="285" r="3"/><circle cx="794" cy="339" r="4"/><circle cx="979" cy="277" r="3"/><circle cx="1086" cy="423" r="4"/></g>
+  <g fill="#bbf4ee" opacity=".58"><path d="M760 222q45-62 90 0-8 42-45 42t-45-42m15 36-9 58m25-58v68m25-68 10 54"/><path d="M157 408q35-50 70 0-6 34-35 34t-35-34m12 28-7 45m20-45v53m19-53 8 42"/></g>
+  <path d="M64 571q50-122 71 0m-44 0q68-164 96 0m808 0q46-120 62 0m-33 0q63-163 91 0" fill="none" stroke="#56bd98" stroke-width="12" opacity=".76"/>
+  <text x="72" y="440" fill="#9af4ed" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="7">BELOW THE SURFACE</text>
+  <text x="66" y="517" fill="#f2ffff" font-family="Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="2">DEEP BLUE</text>
+  <text x="74" y="555" fill="#9fd7dc" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">AN OCEAN OF SECRETS</text>
+</svg>

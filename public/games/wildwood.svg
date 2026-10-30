@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Wildwood</title>
+  <desc id="desc">Un bosque misterioso con un sendero iluminado por luciérnagas.</desc>
+  <defs>
+    <linearGradient id="forest" x2="0" y2="1"><stop stop-color="#182e39"/><stop offset=".56" stop-color="#325b46"/><stop offset="1" stop-color="#111d20"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#f8d99a" stop-opacity=".8"/><stop offset="1" stop-color="#f8d99a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#forest)" d="M0 0h1200v675H0z"/>
+  <circle cx="706" cy="259" r="260" fill="url(#sun)"/>
+  <path d="M410 675 583 364h41l-45 311zm81 0 89-301h30l24 301zm450 0-168-331h-40l44 331zm-84 0-79-312h-29l-20 312z" fill="#17261f"/>
+  <g fill="#10201d"><path d="m80 675 45-430 46 430zm92 0 44-338 43 338zm-177 0 47-300 49 300zm907 0 50-430 47 430zm96 0 43-320 43 320zm-189 0 42-349 45 349z"/></g>
+  <g fill="#597d56" opacity=".9"><path d="m83 330 88-168 87 168zm-55 102 83-147 78 147zm933-111 81-160 83 160zm-80 120 79-154 79 154z"/></g>
+  <path d="M547 675q63-156 74-311 31 152 119 311" fill="#bd9860" opacity=".55"/>
+  <g fill="#ffe59a"><circle cx="278" cy="258" r="4"/><circle cx="367" cy="344" r="3"/><circle cx="903" cy="282" r="4"/><circle cx="822" cy="382" r="3"/><circle cx="478" cy="430" r="3"/><circle cx="746" cy="467" r="4"/></g>
+  <text x="72" y="484" fill="#d9c994" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="7">FOLLOW THE OLD PATH</text>
+  <text x="67" y="555" fill="#f3f0d7" font-family="Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="1">WILDWOOD</text>
+  <text x="74" y="594" fill="#c1d0ad" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">A MYSTERY ROOTED DEEP</text>
+</svg>
